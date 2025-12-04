@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<VTKFile type="ImageData" version="0.1" byte_order="LittleEndian" header_type="UInt32" compressor="vtkZLibDataCompressor">
+  <ImageData WholeExtent="0 50 0 1 0 50" Origin="0 0 0" Spacing="0.000002 1e-7 0.000002" Direction="1 0 0 0 1 0 0 0 1">
+    <FieldData>
+      <Array type="String" Name="comments" NumberOfTuples="1" format="binary">
+        AQAAAACAAABMAAAAUgAAAA==eF5LScxNLM7Wc0/Nz3UvykzRSyvKz40Pyy/Kz8vPjC9JLS5OzclJLMnMz1MoM9Yz0DNU0DAyMDLVNTTUNbJUMDK2MjW1MjXRNgACTQYABMkW7w==
+      </Array>
+    </FieldData>
+  <Piece Extent="0 50 0 1 0 50">
+    <PointData>
+    </PointData>
+    <CellData>
+      <DataArray type="Int64" Name="material" format="binary" RangeMin="0" RangeMax="99">
+        AQAAAACAAAAgTgAASQQAAA==eF7l3MtyVVUUhWEvBFACgoQoEuSAchFUkIugiATBKygoEgEVj/j+72DDuTqjatQ/59rrJKGcnb8/vlq7udde+u/WOns+2R2mV033R08mO0/2MvR6Z1cnlnaudpSDemRd5lBymOqxL0q7a09Had9qt9pjOTo3PRYd5bEv2W+lp5P9p9jm8Fw61eNPKbksmx4rljxod3JYtIc6aA9Esx7q4Npc9kadR6/LVIft5nHA9ANT2l+7Vzra47GUdl+Ux6koOVQ9nEPVQx1Gu6hDr4tzyHqcko5yyHrckr5mSh7k0uuQdbkTHe3R+pG0eXxiOspjqkvW41mU9ieXO6ZZD7e/c9A6D+dSdXAen0urLs+gtL/WOTiXu9EvpYv2aO19F61HpepBPlmHXhdyaL0rVQ9yIY+pLuRwQ5r1cC60P7XXQx3Io/WJ6WZ7qIMrebTSztVmPZzDVA9yIYesB+2fdflDSvtSn0LJ4Sy06kAeVZdeh19MdX9X2j27vyvtTtW9Pyz2zc727t7rQB60c7a0N7XXg/bOlvam0v7aC1HatbffSGl/re6803S0x7ko7T3aQUv7Vqse1br9qbQ3ObS+EqX9W3+VkgN5vCylvam0t6se7T/VQx3UQ11092rJwXlUfb4wpf0328Pt7xy0tDeVHLIezsU5VF3o/jYd5ZD1+MGUHBbl0Ur7V13onId2UQ7kQU4rUXLYbA91WTdtR/s7D9q/9dMoOfR6tK6YbheP9WRpf212fy05nIjS7lkHcqH9W2dR2pu6Dn0bmvVw+2ddTpiSQ9Wj9SF0Zkp7U9eltP93UPWg3cnDOVRdaP+sxyxZ2t2V9u3tW6bk0Er7V11o/1Ee96M/Qhfl8bH0mtS5UA9Gaf/RHr3fqftS8nClvWl/8qi6HDQlh9Yz0F6Pmak6LMqDds86tL4X7fUgH3Jw/SnZmdQ5jHKhvalZD22vR+tXUdp9qoeWHLa7B7m0ZvfX0u6jPX6OjvZ4I0p7u74vnepxPJp12GoP7SgPbdUh60IOruTR60K7Zx20h6K0PzlkSx7OperwrnSrPQ511jlcjNLeVHLQ3pOSg/MgF9q/9XdT3f91KDk4l4tQ2r/XQx20l6JVD+dyJVp10JJDrw859LpMdVAP17b7b6ZXoO9EaX/tnijtn3XZiNL+VZdXkyWHrIdzqHpUXfZIv052A0q7Z/t/8VCHrAc5tH5WrPOg/bV/RXs9RjtkXZyHc6H9p3q4Zvd3HeXxIDrV46b0iJQ8aPet8iCHqR4PklWPpSg5OA/nQ3tTV6O0N1UdDid7W9ocdiVLDq27o0vQXo9W2pu6mmzWQ/etlvaveuw2rbqQw1QP2j9bfQ+0N5X2r7qowyNp1eP7ZN3u101p52ppZ+palHan0rtQD+fSHGh37WWp23+7eKxBz0tpf23VwbnMpVWHqsdol+ruWQ/XHaZXpW5395+l1rnpi+bxL93l8e4=
+      </DataArray>
+    </CellData>
+  </Piece>
+  </ImageData>
+</VTKFile>
