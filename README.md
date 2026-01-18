@@ -1,4 +1,4 @@
-# TGNN/tgnn_model.ipynb
+# Graph Neural Networks for grain tracking in crystal plasticity simulations
 
 This file defines the full **data preparation and training pipeline** for graph-based learning using the model and demo dataset from Hu et al. (2024).
 
@@ -104,3 +104,4 @@ pip install -r experimental-data-gnn/requirements.txt
 For GPU acceleration, install a compatible PyTorch build and the matching
 PyTorch Geometric wheels. Refer to the PyTorch and PyG installation guides for
 your CUDA version.
+
