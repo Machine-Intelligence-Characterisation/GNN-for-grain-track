@@ -81,6 +81,8 @@ analyze predicted responses across strain increments.
    - Create PyG dataloaders for training/testing splits.
    - Train and evaluate the graph model across strain increments.
 
+![TGNN Overview](images/tgnn_overview.png)
+
 ### 2. Experimental data workflow
 
 1. Install dependencies listed in `experimental-data-gnn/requirements.txt`.
@@ -90,6 +92,8 @@ analyze predicted responses across strain increments.
 3. Run `experimental-data-gnn/gnn_single_step.ipynb` to:
    - Create dataloaders.
    - Train and evaluate the single-step GNN model.
+
+![Experimental GNN Overview](images/experimental_gnn_overview.png)
 
 ## Environment setup
 
